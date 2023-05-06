@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/birthday_reminder/static/css/main.85d0cc03.css",
+    "main.js": "/birthday_reminder/static/js/main.ef625b68.js",
+    "static/js/787.0fa526db.chunk.js": "/birthday_reminder/static/js/787.0fa526db.chunk.js",
+    "static/media/Lola.jpg": "/birthday_reminder/static/media/Lola.24487f7ee882e08a9787.jpg",
+    "static/media/Bertie.jpg": "/birthday_reminder/static/media/Bertie.bc906da671002c299c0a.jpg",
+    "static/media/Hester.jpg": "/birthday_reminder/static/media/Hester.f4dabdcd10966891e268.jpg",
+    "static/media/Sean.jpg": "/birthday_reminder/static/media/Sean.979dda0cdfd716605b21.jpg",
+    "static/media/Larry.jpg": "/birthday_reminder/static/media/Larry.c93f9d64f08fce10570a.jpg",
+    "index.html": "/birthday_reminder/index.html",
+    "main.85d0cc03.css.map": "/birthday_reminder/static/css/main.85d0cc03.css.map",
+    "main.ef625b68.js.map": "/birthday_reminder/static/js/main.ef625b68.js.map",
+    "787.0fa526db.chunk.js.map": "/birthday_reminder/static/js/787.0fa526db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d0cc03.css",
+    "static/js/main.ef625b68.js"
+  ]
+}
